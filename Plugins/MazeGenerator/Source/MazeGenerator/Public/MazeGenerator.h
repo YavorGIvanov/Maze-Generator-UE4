@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "ModuleManager.h"
+#include "MazeGeneratorPrivatePCH.h"
 
 class FMazeGeneratorModule : public IModuleInterface
 {
